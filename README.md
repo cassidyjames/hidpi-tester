@@ -1,2 +1,3 @@
 # hidpi-tester
-HiDPI Tester
+
+Stupid-simple HiDPI info playground for testing.
